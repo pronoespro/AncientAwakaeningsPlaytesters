@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 250292358
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: charmattacks
+      Dependencies: {}
+    Info_1:
+      Name: ui
+      Dependencies: {}
+    Info_2:
+      Name: voidpowers
+      Dependencies: {}
+    Info_3:
+      Name: charmsprites
+      Dependencies: {}
+    Info_4:
+      Name: charmupgrades
+      Dependencies: {}
+    Info_5:
+      Name: knightanimations
+      Dependencies: {}

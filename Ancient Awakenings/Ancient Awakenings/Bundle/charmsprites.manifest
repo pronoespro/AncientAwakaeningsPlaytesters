@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 852305236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b86f360549c6d6e38d665ed2ddfc860
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/Charms/Void scratch.png
+- Assets/Sprites/Charms/Void Rain.png
+- Assets/Sprites/Charms/Defender's Roll.png
+- Assets/Sprites/Charms/Unbreakable Stability.png
+- Assets/Sprites/Charms/crystal dash projectile charm.png
+- Assets/Sprites/Charms/Chained Pike.png
+- Assets/Sprites/Charms/Grappler grip.png
+- Assets/Sprites/Charms/Void Soul.png
+- Assets/Sprites/Charms/Demigod Tamer.png
+- Assets/Sprites/Charms/Lifeblood's empowering.png
+- Assets/Sprites/Charms/Radiance's Opposite.png
+- Assets/Sprites/Charms/Sibling's Strength.png
+- Assets/Sprites/Charms/Unbreakable Defense.png
+- Assets/Sprites/Charms/Soul Basin.png
+- Assets/Sprites/Charms/Zote's 57 Precepts.png
+- Assets/Sprites/Charms/Dance of Nails.png
+- Assets/Sprites/Charms/Nosk's Toxicity.png
+- Assets/Sprites/Charms/The Friends we Made Along the Way.png
+- Assets/Sprites/Charms/Soul Chakram.png
+- Assets/Sprites/Charms/Godswrath.png
+- Assets/Sprites/Charms/Soul Samurai.png
+Dependencies: []
